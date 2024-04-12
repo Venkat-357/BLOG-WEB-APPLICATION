@@ -1,0 +1,214 @@
+.BFSVG {
+    border-radius: 15%;
+    background-color: white;
+    margin-right: 50px;
+    margin-left: 0px;
+}
+#text-item
+{
+    padding-left: 30px;
+    color: black;
+    font-weight:bolder;
+    font-style: normal;
+}
+html
+{
+    background-color: rgba(9, 174, 229, 0.171);
+}
+.title
+{
+    background-color: rgba(9, 174, 229, 0.171);
+}
+#BLOG-finder
+{
+    text-align: center;
+    border : 5px solid black ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tag-line{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.display-image
+{
+    height: 500px;
+    width: 600px;
+    border: 5px solid black;
+}
+#footer-two
+{
+    border : 3px solid black;
+    padding: 10px;
+    margin: 30px;
+    width:1400px;
+    text-align: center;
+}
+.card-container
+{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    gap: 90px;
+    margin-bottom: 100px;
+}
+.card-one
+{
+    width: 300px;
+}
+.card-two
+{
+    width: 300px;
+}
+.card-three
+{
+    width: 300px;
+}
+#img-one
+{
+    height:250px;
+    width:300px;
+    margin-bottom:10px;
+    border: 5px solid black;
+}
+#img-two
+{
+    height:250px;
+    width:300px;
+    margin-bottom:10px;
+    border: 5px solid black;
+}
+#img-three
+{
+    height:250px;
+    width:300px;
+    margin-bottom:10px;
+    border: 5px solid black;
+}
+h5
+{
+    font-style: italic;
+    font-weight:bold;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    text-align: center;
+    width: 300px;
+    padding-bottom: 25px;
+
+}
+.card-text
+{
+    font-weight: 500;
+}
+#economy-dropdown
+{
+    width: 300px;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+#crime-dropdown
+{
+    width: 300px;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+#technology-dropdown
+{
+    width: 300px;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+.genere
+{
+    text-align: center;
+    border: 3px solid black;
+    margin-bottom :100px;
+    background-color: whitesmoke;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+i{
+    cursor: pointer;
+}
+.second-card-container
+{
+        display : grid;
+        grid-template-rows : 1fr 1fr 1fr;
+        grid-template-columns : 1fr 1fr 1fr;
+        row-gap: 20px;
+        column-gap: 150px;
+        padding-left: 160px;
+        padding-right: 150px;
+        margin-top: 200px;
+        margin-bottom: 200px;
+}
+.all-images
+{
+    height: 250px;
+    width: 300px;
+    margin-bottom: 5px;
+    border: 5px solid black;
+}
+.card-title
+{
+    width: 300px;
+    height: 20px;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    margin-bottom: 10px;
+    padding-top: 3px;
+    padding-bottom: 30px;
+}
+.blog-link
+{
+    height: 20px;
+    width: 300px;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    border-radius: 10%;
+    padding-top: 3px;
+    padding-bottom:3px;
+    padding-left:5px;
+    padding-right: 5px;
+}
+.blog-link:hover
+{
+    background-color: gray;
+}
+.card-title:hover
+{
+    background-color: gray;   
+}
+.card
+{
+    margin-bottom: 10px;
+}
+#author-heading
+{
+    text-align: center;
+    border: 3px solid black;
+    margin-bottom :50px;
+    background-color:whitesmoke;
+    color: black;
+    font-weight:bold;
+    font-style: italic;
+    margin-top: 50px;
+}
